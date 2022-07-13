@@ -1,2 +1,2 @@
 # git_ssh_test
-Repository for SSH testing purposes.
+This repository has been made with the intention of testing SSH keys with Github on different devices.
